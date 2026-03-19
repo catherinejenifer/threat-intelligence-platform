@@ -1,0 +1,23 @@
+## 📸 Screenshots
+
+### 🔹 1. Fetching Threat Data
+This shows the script fetching malicious IP data from an OSINT source.
+![Fetch](screenshots/fetch.png)
+
+---
+
+### 🔹 2. Cleaned IP Addresses
+This shows the processed and cleaned list of valid IPs after removing duplicates and invalid entries.
+![Clean](screenshots/clean.png)
+
+---
+
+### 🔹 3. MongoDB Storage
+This shows the malicious IPs stored inside the MongoDB database.
+![MongoDB](screenshots/mongodb.png)
+
+---
+
+### 🔹 4. Firewall Blocking (iptables)
+This shows the firewall rules automatically blocking malicious IPs using iptables.
+![Firewall](screenshots/firewall.png)
